@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 holoshiba
 i am cute
+=======
+holoshiba shiba 7788 ewlkweljg
+hello world
+
+
+>>>>>>> shiba
